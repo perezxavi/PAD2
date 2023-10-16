@@ -34,6 +34,6 @@ class Animal(ABC):
     def sleep(self):
         print(f"({self.name}) Zzzzzzz")
 
-    @abstractmethod
+    @abstractmethod #should be implemented in the derived class
     def eat(self, food: str):
         pass
