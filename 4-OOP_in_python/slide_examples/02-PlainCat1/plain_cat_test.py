@@ -7,7 +7,7 @@ garfield = PlainCat("Garfield", "male")
 print("Hello, kitty!!!")
 garfield.meow()
 print("Here's some cake.")
-garfield.eat("black forest cake")
+garfield.eat("cheese cake")
 print("Here's some fish, let's see if you like this.")
 garfield.eat("fish")
 

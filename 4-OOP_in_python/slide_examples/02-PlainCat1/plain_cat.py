@@ -3,7 +3,7 @@ We are going to create the 'Simple Cat' class, which we call that because later 
 we will create another slightly more elaborate class called 'Cat.'
 
 To determine what attributes this class should have, we need to ask ourselves what 
-characteristics cats have. All cats have a specific color, belong to a breed, have an age, 
+characteristics cats have. All cats have a specific color, sex, belong to a breed, have an age, 
 have a certain gender (males or females), and have a weight that can be expressed in kilograms. 
 These will be the attributes of the 'Simple Cat' class.
 

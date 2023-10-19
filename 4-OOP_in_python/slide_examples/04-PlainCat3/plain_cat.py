@@ -1,5 +1,6 @@
 """
-In this version of the 'PlainCat' class, we replace the use of getters and setters with properties, which is the "Pythonic" way of doing it. We add more functionality to the 'birth day' property and create a read-only property that gives us the cat's age.
+In this version of the 'PlainCat' class, we replace the use of getters and setters with properties, which is the "Pythonic" way 
+of doing it. We add more functionality to the 'birth day' property and create a read-only property that gives us the cat's age.
 
 Date: 7/09/2023.
 """
